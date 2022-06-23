@@ -1,3 +1,2 @@
 # clock
-<h1>A console clock app</h1>
-Hello :)
+A console clock app
